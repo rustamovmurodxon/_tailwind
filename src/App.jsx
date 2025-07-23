@@ -14,8 +14,8 @@ function App() {
       <Customers />
       <Product />
       <Community />
-      <Footer />
       <Stay/>
+      <Footer />
     </>
   );
 }
